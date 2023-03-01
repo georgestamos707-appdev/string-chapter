@@ -50,14 +50,15 @@ Should output exactly
 using the given starting variable.
 
 ### string_gets.rb
-Write a program that gets a name (e.g. "alice") from the user, capitalizes it, and then says "Hello, Alice!"
+Write a program that gets a name (e.g. "alice") from the user, capitalizes it, and then says "Hello, Jelani!"
 
 Should work similarly to the following:
 ```
 "What's your name?"
 jelani
-"Hello, Jelani!"
+"Hello, Jelani!
 ```
+
 
 ## Specs
 <details>
